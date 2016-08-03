@@ -1,0 +1,10 @@
+/* Kaushan字体 */
+@font-face{
+    font-family: Kaushan;
+    src: url('../font/link/KaushanScript/KaushanScript-Regular.otf');
+}
+
+/* 引用Kaushan字体 */
+.kaushanFont {
+    font-family: Kaushan, Arial;
+}
